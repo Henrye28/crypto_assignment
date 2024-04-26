@@ -1,4 +1,7 @@
 # Real Time Portfolio Market Value Console  
+<h3> Gradle Version Gradle 4.8 <h3>
+
+
 <h3> Extra libs </h3>
 
 - >commons-math3-3.6.1.jar : Apache commons maths for calculating the cumulative probability
