@@ -38,7 +38,7 @@ Further enhancement:
 <h3> User guide </h3>
 
 - First gradle build the project under the root folder
-- cd to ./portfolio/build/libs
+- cd to build/libs
 - Start service by:
 >java -jar portfolio-CRYPTO-SNAPSHOT.jar
 
